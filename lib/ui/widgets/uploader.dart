@@ -48,7 +48,7 @@ class _UploaderWidgetState extends State<UploaderWidget> {
     if (busyLoader) return;
     busyLoader = true;
 
-    uniqueId = DateTime.now().millisecondsSinceEpoch;
+    uniqueId = DateTime.now().millisecond;
 
     FireBaseStorageService fireBaseStorageService = FireBaseStorageService();
 
