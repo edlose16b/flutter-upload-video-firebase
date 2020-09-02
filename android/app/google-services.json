@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "370532386848",
+    "firebase_url": "https://videofamosos-839c9.firebaseio.com",
+    "project_id": "videofamosos-839c9",
+    "storage_bucket": "videofamosos-839c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370532386848:android:7b84dc28f88524681f9445",
+        "android_client_info": {
+          "package_name": "com.example.retofamosos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370532386848-7abfl1s4b0s0pa5gdar2ivph91vp82co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDyOLUAx5vfs-y-N6kgWy2_aDbKIXPXa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370532386848-7abfl1s4b0s0pa5gdar2ivph91vp82co.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
